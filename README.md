@@ -28,3 +28,7 @@ MainActivity.this.startActivityForResult(i, REQUEST_CODE);
         
     }
     
+    效果如下：
+    <img src="https://github.com/oooohuhu/myscan/blob/master/%E6%88%AA%E5%B1%8F_20180803_171129.jpg" width="150" height="150" alt="效果图"/>
+    
+    
