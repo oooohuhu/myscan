@@ -1,6 +1,6 @@
-# myscan
-支持二维码，条形码通用扫描
+# myscan  支持二维码，条形码通用扫描
 
+在项目gradle中compile 'com.github.XuDaojie:QRCode-Android:v0.4.2'即可使用
 
 直接跳转：
 
@@ -27,3 +27,4 @@ MainActivity.this.startActivityForResult(i, REQUEST_CODE);
         }
         
     }
+    
