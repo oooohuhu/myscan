@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="iconSize" format="dimension"/>
+    <attr name="iconMargin" format="dimension"/>
+    <attr name="iconSrc" format="reference"/>
+    <attr name="iconLeft" format="reference"/>
+    <attr name="iconRight" format="reference"/>
+    <attr name="duration_max" format="integer"/>
+    <declare-styleable name="JCameraView">
+        <attr name="iconSize"/>
+        <attr name="iconMargin"/>
+        <attr name="iconSrc"/>
+        <attr name="iconLeft"/>
+        <attr name="iconRight"/>
+        <attr name="duration_max"/>
+    </declare-styleable>
+    <declare-styleable name="qr_ViewfinderView">
+        <attr name="qr_angleColor" format="color"/>
+        <attr name="qr_hint" format="string"/>
+        <attr name="qr_textHintColor" format="color"/>
+        <attr name="qr_errorHint" format="string"/>
+        <attr name="qr_textErrorHintColor" format="color"/>
+        <attr name="qr_offsetX" format="integer"/>
+        <attr name="qr_offsetY" format="integer"/>
+        <attr name="qr_showPossiblePoint" format="boolean"/>
+    </declare-styleable>
+</resources>
